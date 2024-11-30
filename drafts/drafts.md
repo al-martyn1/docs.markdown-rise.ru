@@ -50,7 +50,20 @@ Markdown Rise - Проект, вспомошествующий разработ�
 - [Бесплатные Jekyll темы](https://jekyllthemes.io/free)
 - [Documentation Jekyll theme](https://jekyllthemes.io/theme/documentation), на [GitHub](https://github.com/tomjoht/documentation-theme-jekyll),
   [Live Demo](https://idratherbewriting.com/documentation-theme-jekyll/)
-
+- [Creative Jekyll theme](https://jekyllthemes.io/theme/creative-theme-jekyll)
+  [Live Demo](https://volny.github.io/creative-theme-jekyll/)
+- [Minimal Mistakes Jekyll theme](https://jekyllthemes.io/theme/minimal-mistakes)
+  [Live Demo](https://mmistakes.github.io/minimal-mistakes/)
+- [Just The Docs Jekyll theme](https://jekyllthemes.io/theme/just-the-docs)
+  [Live Demo](https://just-the-docs.github.io/just-the-docs/)
+- [Hyde Jekyll theme](https://jekyllthemes.io/theme/hyde)
+  [Live Demo](https://hyde.getpoole.com/) - непонятно назначение темы, но выглядит ничего.
+- [Automatic Jekyll theme](https://jekyllthemes.io/theme/automatic-app-landing-page)
+  [Live Demo](https://emilbaehr.github.io/automatic-app-landing-page/) - заточена под iOS и App Store - тут интересен фи лист в три колонки
+- []()
+  [Live Demo]()
+- []()
+  [Live Demo]()
 
 # Картинки
 
