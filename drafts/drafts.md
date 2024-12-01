@@ -57,13 +57,15 @@ Markdown Rise - Проект, вспомошествующий разработ�
   [Live Demo](https://idratherbewriting.com/documentation-theme-jekyll/) - тема для документации.
 
 - [Just The Docs Jekyll theme](https://jekyllthemes.io/theme/just-the-docs) -
-  [Live Demo](https://just-the-docs.github.io/just-the-docs/) - тема для документации.
+  [Live Demo](https://just-the-docs.github.io/just-the-docs/) - тема для документации - 
+  [GitHub](https://github.com/just-the-docs/just-the-docs).
 
 - [Hyde Jekyll theme](https://jekyllthemes.io/theme/hyde) -
   [Live Demo](https://hyde.getpoole.com/) - непонятно назначение темы, но выглядит ничего. В принципе, для доки тоже сойдёт.
 
 - [Creative Jekyll theme](https://jekyllthemes.io/theme/creative-theme-jekyll) -
   [Live Demo](https://volny.github.io/creative-theme-jekyll/) - для морды сайта можно приглядется.
+
 - [Minimal Mistakes Jekyll theme](https://jekyllthemes.io/theme/minimal-mistakes) -
   [Live Demo](https://mmistakes.github.io/minimal-mistakes/) - для морды сайта неплоха, но что-то не завелась.
   [On this page right box](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/).
