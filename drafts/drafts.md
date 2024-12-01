@@ -27,7 +27,7 @@ Markdown Rise - Проект, вспомошествующий разработ�
 
 - [Merlot](https://github.com/pages-themes/merlot), [превью](https://pages-themes.github.io/merlot/) - унылое красное мерло.
 
-- [Midnight](https://github.com/pages-themes/midnight), [превью](https://pages-themes.github.io/midnight/) - темная тема, типа хакерскрой, нафик.
+- [Midnight](https://github.com/pages-themes/midnight), [превью](https://pages-themes.github.io/midnight/) - темная тема, типа хакерской, нафик.
 
 - [Minima](https://github.com/jekyll/minima), [превью](https://jekyll.github.io/minima/) - минима интересна, для документации неплохо выглядит, 
   цвета надо на свои переделать, но общий стил неплох. Плюс тут типа как пример ленты новостей или блога - тоже надо приглядется на эту тему под блог-проекты.
@@ -51,17 +51,17 @@ Markdown Rise - Проект, вспомошествующий разработ�
 
 - [Бесплатные Jekyll темы](https://jekyllthemes.io/free)
 - [Documentation Jekyll theme](https://jekyllthemes.io/theme/documentation), на [GitHub](https://github.com/tomjoht/documentation-theme-jekyll) - 
-  [Live Demo](https://idratherbewriting.com/documentation-theme-jekyll/).
-- [Creative Jekyll theme](https://jekyllthemes.io/theme/creative-theme-jekyll) -
-  [Live Demo](https://volny.github.io/creative-theme-jekyll/)
-- [Minimal Mistakes Jekyll theme](https://jekyllthemes.io/theme/minimal-mistakes) -
-  [Live Demo](https://mmistakes.github.io/minimal-mistakes/)
+  [Live Demo](https://idratherbewriting.com/documentation-theme-jekyll/) - тема для документации.
 - [Just The Docs Jekyll theme](https://jekyllthemes.io/theme/just-the-docs) -
-  [Live Demo](https://just-the-docs.github.io/just-the-docs/)
+  [Live Demo](https://just-the-docs.github.io/just-the-docs/) - тема для документации.
 - [Hyde Jekyll theme](https://jekyllthemes.io/theme/hyde) -
-  [Live Demo](https://hyde.getpoole.com/) - непонятно назначение темы, но выглядит ничего.
+  [Live Demo](https://hyde.getpoole.com/) - непонятно назначение темы, но выглядит ничего. В принципе, для доки тоже сойдёт.
+- [Creative Jekyll theme](https://jekyllthemes.io/theme/creative-theme-jekyll) -
+  [Live Demo](https://volny.github.io/creative-theme-jekyll/) - для морды сайта можно приглядется.
+- [Minimal Mistakes Jekyll theme](https://jekyllthemes.io/theme/minimal-mistakes) -
+  [Live Demo](https://mmistakes.github.io/minimal-mistakes/) - для морды сайта неплоха, но что-то не завелась.
 - [Automatic Jekyll theme](https://jekyllthemes.io/theme/automatic-app-landing-page) -
-  [Live Demo](https://emilbaehr.github.io/automatic-app-landing-page/) - заточена под iOS и App Store - тут интересен фи лист в три колонки
+  [Live Demo](https://emilbaehr.github.io/automatic-app-landing-page/) - заточена под iOS и App Store - тут интересен фи лист в три колонки. В принципе, для главной сайта нормас.
 - []() -
   [Live Demo]()
 - []() -
