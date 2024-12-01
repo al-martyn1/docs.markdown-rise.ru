@@ -64,12 +64,21 @@ Markdown Rise - Проект, вспомошествующий разработ�
   [Live Demo](https://emilbaehr.github.io/automatic-app-landing-page/) - заточена под iOS и App Store - тут интересен фи лист в три колонки. В принципе, для главной сайта нормас.
 - [Feeling Responsive Jekyll theme](https://jekyllthemes.io/theme/feeling-responsive) -
   [Live Demo](https://phlow.github.io/feeling-responsive/) - в принцие, для главной тоже номас.
+- [Bulma Jekyll theme](https://jekyllthemes.io/theme/bulma) -
+  [Live Demo](https://www.csrhymes.com/bulma-clean-theme/) - 
+  [GitHub](https://github.com/chrisrhymes/bulma-clean-theme/) - тоже можно для главной
 - []() -
-  [Live Demo]()
+  [Live Demo]() -
+  [GitHub]() - 
 - []() -
-  [Live Demo]()
+  [Live Demo]() -
+  [GitHub]() - 
 - []() -
-  [Live Demo]()
+  [Live Demo]() -
+  [GitHub]() - 
+- []() -
+  [Live Demo]() -
+  [GitHub]() - 
 
 
 # Картинки
