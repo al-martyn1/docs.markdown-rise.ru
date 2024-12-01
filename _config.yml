@@ -1,8 +1,11 @@
 title: Markdown Rise Home
 description: Markdown Rise is a powerful extention for the markdown
+
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 show_downloads: true # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
+
+favicon_ico: "/assets/images/favicon.ico"
