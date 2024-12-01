@@ -50,6 +50,7 @@ Markdown Rise - Проект, вспомошествующий разработ�
 Как использовать удалённые темы - https://github.blog/news-insights/product-news/use-any-theme-with-github-pages/
 
 - [Бесплатные Jekyll темы](https://jekyllthemes.io/free)
+- [Темы Jekyll на гитхабе](https://github.com/search?q=jekyll+theme&type=repositories)
 - [Documentation Jekyll theme](https://jekyllthemes.io/theme/documentation), на [GitHub](https://github.com/tomjoht/documentation-theme-jekyll) - 
   [Live Demo](https://idratherbewriting.com/documentation-theme-jekyll/) - тема для документации.
 - [Just The Docs Jekyll theme](https://jekyllthemes.io/theme/just-the-docs) -
