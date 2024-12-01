@@ -8,7 +8,7 @@ description: Markdown Rise is a powerful extention for the markdown
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/leap-day@v0.2.0
 # remote_theme: https://just-the-docs.github.io/just-the-docs
-remote_theme: just-the-docs/just-the-docs@0.10.0
+remote_theme: just-the-docs/just-the-docs
 # theme: just-the-docs
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
