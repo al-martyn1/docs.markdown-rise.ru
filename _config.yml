@@ -11,9 +11,9 @@ show_downloads: true # ["true" or "false" (unquoted) to indicate whether to prov
 
 # favicon_ico: "/assets/images/favicon.ico"
 # favicon_ico: "/assets/images/favicon-filled.ico"
-favicon_ico: "/assets/images/favicon-outlined.ico"
-
-
+# favicon_ico: "/assets/images/favicon-outlined.ico"
+# favicon_ico: "/assets/images/markdown-rise-lbrown-filled.ico"
+favicon_ico: "/assets/images/markdown-rise-lbrown-outlined.ico"
 
 
 # Enable or disable the site search
