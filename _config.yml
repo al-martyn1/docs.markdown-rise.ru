@@ -1,5 +1,6 @@
-title: Markdown Rise Home
-description: Markdown Rise is a powerful extention for the markdown
+title: Markdown Rise
+# description: Markdown Rise is a powerful extension for the markdown
+description: Markdown Rise - расширение возможностей markdown
 
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 plugins:
@@ -41,3 +42,11 @@ search:
   button: true
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   # focus_shortcut_key: 'k'
+
+
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/just-the-docs/just-the-docs"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
