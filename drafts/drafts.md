@@ -61,6 +61,7 @@ Markdown Rise - Проект, вспомошествующий разработ�
   [Live Demo](https://just-the-docs.github.io/just-the-docs/) -
   [GitHub](https://github.com/just-the-docs/just-the-docs) -
   [Настройка](https://just-the-docs.github.io/just-the-docs/docs/configuration/)
+- [Кастомизация цветов и прочего](https://just-the-docs.github.io/just-the-docs/docs/customization/) -
   тема для документации.
 
 - [Hyde Jekyll theme](https://jekyllthemes.io/theme/hyde) -
