@@ -62,10 +62,15 @@ Markdown Rise - Проект, вспомошествующий разработ�
   [Live Demo](https://mmistakes.github.io/minimal-mistakes/) - для морды сайта неплоха, но что-то не завелась.
 - [Automatic Jekyll theme](https://jekyllthemes.io/theme/automatic-app-landing-page) -
   [Live Demo](https://emilbaehr.github.io/automatic-app-landing-page/) - заточена под iOS и App Store - тут интересен фи лист в три колонки. В принципе, для главной сайта нормас.
+- [Feeling Responsive Jekyll theme](https://jekyllthemes.io/theme/feeling-responsive) -
+  [Live Demo](https://phlow.github.io/feeling-responsive/) - в принцие, для главной тоже номас.
 - []() -
   [Live Demo]()
 - []() -
   [Live Demo]()
+- []() -
+  [Live Demo]()
+
 
 # Картинки
 
