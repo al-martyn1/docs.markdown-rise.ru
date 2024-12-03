@@ -12,6 +12,9 @@ show_downloads: true # ["true" or "false" (unquoted) to indicate whether to prov
 favicon_ico: "/assets/images/markdown-rise-dark-orange-filled.ico"
 
 
+#----------------------------------------------------------------------------
+# Search - https://just-the-docs.github.io/just-the-docs/docs/configuration/#search
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
@@ -44,6 +47,9 @@ search:
   # focus_shortcut_key: 'k'
 
 
+#----------------------------------------------------------------------------
+# Aux links - https://just-the-docs.github.io/just-the-docs/docs/configuration/#aux-links
+
 aux_links:
   "Aux Links - Just the Docs on GitHub":
     - "//github.com/just-the-docs/just-the-docs"
@@ -54,10 +60,16 @@ aux_links:
 aux_links_new_tab: false
 
 
+#----------------------------------------------------------------------------
+# Navigation sidebar - https://just-the-docs.github.io/just-the-docs/docs/configuration/#navigation-sidebar
+
 # Enable or disable the side/mobile menu globally
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
 nav_enabled: true
 
+
+#----------------------------------------------------------------------------
+# Heading anchor links - https://just-the-docs.github.io/just-the-docs/docs/configuration/#heading-anchor-links
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
@@ -65,5 +77,24 @@ nav_enabled: true
 # Supports true (default) or false
 heading_anchors: true
 
+
+#----------------------------------------------------------------------------
+# External Links - https://just-the-docs.github.io/just-the-docs/docs/navigation/main/external/#external-links
+
+# External navigation links
+nav_external_links:
+  - title: Just the Docs on GitHub
+    url: https://github.com/just-the-docs/just-the-docs
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
+
+#----------------------------------------------------------------------------
+# Use a custom scheme - https://just-the-docs.github.io/just-the-docs/docs/customization/#use-a-custom-scheme
+
+color_scheme: mdr
+
+
+# $link-color: $blue-000;
 
 
