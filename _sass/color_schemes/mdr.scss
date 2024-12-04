@@ -8,6 +8,30 @@
 
 */
 
+$orange-lt: #FF8700 !default; // Как на карно сайте
+$orange-dk: #FD7D13 !default; // Чуть темнее, получше для текста
+$orange-brown: #E87810 !default; // ещё оранжевый, но темнее и в сторону коричневого
 
-@import "./color_schemes/light";
+$text-grey: #575757 !default; // or 4F4F4F
+$hdr-grey-dk: #2F2F2F !default; // or 3F3F3F
+$hdr-orange-dk: $orange-dk !default; // or $orange-brown
+
+
+$color-scheme: mdr !default;
+$body-background-color: $white !default;
+$body-heading-color: $hdr-orange-dk !default;
+$body-text-color: $grey-dk-100 !default;
+$link-color: $purple-000 !default;
+$nav-child-link-color: $grey-dk-100 !default;
+$sidebar-color: $grey-lt-000 !default;
+$base-button-color: #f7f7f7 !default;
+$btn-primary-color: $purple-100 !default;
+$code-background-color: $grey-lt-000 !default;
+$feedback-color: darken($sidebar-color, 3%) !default;
+$table-background-color: $white !default;
+$search-background-color: $white !default;
+$search-result-preview-color: $grey-dk-000 !default;
+
+@import "./vendor/OneLightJekyll/syntax";
+
 
