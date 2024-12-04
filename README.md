@@ -14,18 +14,18 @@ jtd.addEvent(changeTheme, 'click', function()
 {
     if (jtd.getTheme() === 'light')
     {
-        jtd.setTheme('dark');
         changeTheme.textContent = 'Change theme to dark';
+        jtd.setTheme('dark');
     }
     else if (jtd.getTheme() === 'dark')
     {
-        jtd.setTheme('mdr');
         changeTheme.textContent = 'Change theme to mdr';
+        jtd.setTheme('mdr');
     }
     else
     {
-        jtd.setTheme('dark');
         changeTheme.textContent = 'Change theme to light';
+        jtd.setTheme('light');
     }
 });
 </script>
