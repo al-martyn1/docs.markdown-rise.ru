@@ -12,19 +12,19 @@ const changeTheme = document.querySelector('.js-change-theme');
 
 jtd.addEvent(changeTheme, 'click', function()
 {
-    if (jtd.getTheme() === 'light')
+    if (jtd.getTheme() === 'light') // cur text - 'Change theme to dark'
     {
-        changeTheme.textContent = 'Change theme to dark';
+        changeTheme.textContent = 'Dark. Change theme to mdr';
         jtd.setTheme('dark');
     }
-    else if (jtd.getTheme() === 'dark')
+    else if (jtd.getTheme() === 'dark') // cur text - 'Change theme to mdr'
     {
-        changeTheme.textContent = 'Change theme to mdr';
+        changeTheme.textContent = 'Mdr. Change theme to light';
         jtd.setTheme('mdr');
     }
-    else
+    else // =='mdr'  // cur text - 'Change theme to light'
     {
-        changeTheme.textContent = 'Change theme to light';
+        changeTheme.textContent = 'Light. Change theme to dark';
         jtd.setTheme('light');
     }
 });
