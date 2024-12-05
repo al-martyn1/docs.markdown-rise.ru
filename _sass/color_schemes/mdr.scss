@@ -16,9 +16,14 @@ $text-grey: #575757 !default; // or 4F4F4F
 $hdr-grey-dk: #2F2F2F !default; // or 3F3F3F
 $hdr-orange-dk: $orange-dk !default; // or $orange-brown
 
+// $red-000: #f77e7e !default;  // розовый
+// $red-100: #f96e65 !default;  // поярче розовый
+// $red-200: #e94c4c !default;  // розово красный
+// $red-300: #dd2e2e !default;  // красный, но не ярко алый красный как чисто red
+
 
 $color-scheme: mdr !default;
-$body-background-color: $white !default;
+$body-background-color: $red-300; // $white !default;
 $body-heading-color: $hdr-orange-dk !default;
 $body-text-color: $grey-dk-100 !default;
 $link-color: $orange-lt !default; /*$purple-000*/
