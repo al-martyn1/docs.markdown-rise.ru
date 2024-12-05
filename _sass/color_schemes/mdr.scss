@@ -22,12 +22,13 @@ $hdr-orange-dk: $orange-dk !default; // or $orange-brown
 // $red-200: #e94c4c !default;  // розово красный
 // $red-300: #dd2e2e !default;  // красный, но не ярко алый красный как чисто red
 
+// Такое ощущение, что оно не понимает переменных с цветами, которые я тут задаю
 
 $color-scheme: mdr !default;
 $body-background-color: $white !default; // работает - фон правой части - с текстом документа
 $body-heading-color: $hdr-orange-dk !default; // Таки это заголовки - видимо, недоперегружал раньше, Ctrl+F5 надо жмакать побольше. Кроме заголовков докмента это и заголовок в левой части сверху
 $body-text-color: $red-300; // $grey-dk-100 !default; // Это таки цвет текста
-$link-color: $orange-lt !default; /*$purple-000*/
+$link-color: #ff8700 !default; // org - $purple-000. $orange-lt: #ff8700
 $nav-child-link-color: $grey-dk-100 !default;
 $sidebar-color: $grey-lt-000 !default;
 $base-button-color: #f7f7f7 !default;

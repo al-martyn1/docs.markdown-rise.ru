@@ -62,6 +62,9 @@ Markdown Rise - Проект, вспомошествующий разработ�
   [GitHub](https://github.com/just-the-docs/just-the-docs) -
   [Настройка](https://just-the-docs.github.io/just-the-docs/docs/configuration/)
 - [Кастомизация цветов и прочего](https://just-the-docs.github.io/just-the-docs/docs/customization/) -
+  [jekyllrb - Directory Structure](https://jekyllrb.com/docs/structure/) - 
+  [jekyllrb - GitHub Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/) -
+  [jekyllrb - Front Matter - Про метатеги в MD, поддерживается title, permalink, author, category/categories, tags](https://jekyllrb.com/docs/front-matter/) -
   тема для документации.
 
 - [Hyde Jekyll theme](https://jekyllthemes.io/theme/hyde) -
