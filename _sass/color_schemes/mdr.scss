@@ -8,12 +8,13 @@
 
 */
 
-$orange-lt: #FF8700 !default; // Как на карно сайте
-$orange-dk: #FD7D13 !default; // Чуть темнее, получше для текста
-$orange-brown: #E87810 !default; // ещё оранжевый, но темнее и в сторону коричневого
+$orange-gk: #ff8700 !default; // Как на Gorgeous-Karnaugh.com
+$orange-lt: $orange-gk !default;
+$orange-dk: #fd7d13 !default; // Чуть темнее, получше для текста
+$orange-brown: #e87810 !default; // ещё оранжевый, но темнее и в сторону коричневого
 
 $text-grey: #575757 !default; // or 4F4F4F
-$hdr-grey-dk: #2F2F2F !default; // or 3F3F3F
+$hdr-grey-dk: #2f2f2f !default; // or 3F3F3F
 $hdr-orange-dk: $orange-dk !default; // or $orange-brown
 
 // $red-000: #f77e7e !default;  // розовый
@@ -25,7 +26,7 @@ $hdr-orange-dk: $orange-dk !default; // or $orange-brown
 $color-scheme: mdr !default;
 $body-background-color: $white !default; // работает - фон правой части - с текстом документа
 $body-heading-color: $hdr-orange-dk !default; // Таки это заголовки - видимо, недоперегружал раньше, Ctrl+F5 надо жмакать побольше. Кроме заголовков докмента это и заголовок в левой части сверху
-$body-text-color: $red-300; // $grey-dk-100 !default;
+$body-text-color: $red-300; // $grey-dk-100 !default; // Это таки цвет текста
 $link-color: $orange-lt !default; /*$purple-000*/
 $nav-child-link-color: $grey-dk-100 !default;
 $sidebar-color: $grey-lt-000 !default;
