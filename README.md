@@ -5,7 +5,7 @@
 [other.md](other.md)
 
 
-<button class="btn js-change-theme">Change theme</button>
+<button class="btn js-change-theme">Mdr. Change theme to light</button>
 
 <script>
 const changeTheme = document.querySelector('.js-change-theme');

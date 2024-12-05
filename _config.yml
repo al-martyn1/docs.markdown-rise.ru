@@ -92,8 +92,8 @@ nav_external_links:
 #----------------------------------------------------------------------------
 # Use a custom scheme - https://just-the-docs.github.io/just-the-docs/docs/customization/#use-a-custom-scheme
 
-# color_scheme: mdr
-color_scheme: dark
+color_scheme: mdr
+# color_scheme: dark
 
 
 # $link-color: $blue-000;
