@@ -23,8 +23,8 @@ $hdr-orange-dk: $orange-dk !default; // or $orange-brown
 
 
 $color-scheme: mdr !default;
-$body-background-color: $red-300; // $white !default;
-$body-heading-color: $hdr-orange-dk !default;
+$body-background-color: $white !default; // работает - фон правой части - с текстом документа
+$body-heading-color: $red-300; // $hdr-orange-dk !default;
 $body-text-color: $grey-dk-100 !default;
 $link-color: $orange-lt !default; /*$purple-000*/
 $nav-child-link-color: $grey-dk-100 !default;
