@@ -24,8 +24,8 @@ $hdr-orange-dk: $orange-dk !default; // or $orange-brown
 
 $color-scheme: mdr !default;
 $body-background-color: $white !default; // работает - фон правой части - с текстом документа
-$body-heading-color: $red-300; // $hdr-orange-dk !default;
-$body-text-color: $grey-dk-100 !default;
+$body-heading-color: $hdr-orange-dk !default; // Таки это заголовки - видимо, недоперегружал раньше, Ctrl+F5 надо жмакать побольше. Кроме заголовков докмента это и заголовок в левой части сверху
+$body-text-color: $red-300; // $grey-dk-100 !default;
 $link-color: $orange-lt !default; /*$purple-000*/
 $nav-child-link-color: $grey-dk-100 !default;
 $sidebar-color: $grey-lt-000 !default;
