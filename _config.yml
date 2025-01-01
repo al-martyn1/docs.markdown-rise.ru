@@ -11,6 +11,23 @@ show_downloads: true # ["true" or "false" (unquoted) to indicate whether to prov
 
 favicon_ico: "/assets/images/markdown-rise-dark-orange-filled.ico"
 
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - build_local.bat
+  - build_local_wlog.bat
+  - local_open.bat
+  - local_serve.bat
+  - build_local.log
+
 
 #----------------------------------------------------------------------------
 # Search - https://just-the-docs.github.io/just-the-docs/docs/configuration/#search
@@ -99,3 +116,6 @@ color_scheme: mdr
 # $link-color: $blue-000;
 
 
+
+sass:
+  quiet_deps: true

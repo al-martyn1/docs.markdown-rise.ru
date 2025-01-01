@@ -1,0 +1,1 @@
+call build_local.bat > build_local.log 2>&1
